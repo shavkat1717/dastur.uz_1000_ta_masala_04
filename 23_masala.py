@@ -1,0 +1,6 @@
+x1=int(input("TTning 1-uchi absissalar o'qidagi nuqtasini kiriting x1 => "))
+y1=int(input("TTning 1-ichi ordinatalar o'qidagi nuqtasini kiriting y1 => "))
+y2=int(input("TTning 2-ichi ordinatalar o'qidagi nuqtasini kiriting y2 => "))
+x2=int(input("TTning 3-ichi absissalar o'qidagi nuqtasini kiriting x2 => "))
+print(f"To'g'ri to'rtburchakning:\n1-uchi ({x1};{y1}) ;\n2-uchi ({x1};{y2}) ;\n3-uchi ({x2};{y1}).\n")
+print(f"Demak, to'g'ri to'rtburchakning 4-uchi koordinatalari ({x2};{y2}) ga teng ekan.")
